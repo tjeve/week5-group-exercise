@@ -1,3 +1,28 @@
+First Group Project
+The purpose of this project was create a simple multi-page website as a group, utilzing Github to share and manage our files.
+
+Collaborators
+Oshea Deans
+Terrence Eveline
+Joey Killam
+Kazue Sasatani
+Key Takeaways
+Github proved to be a very useful tool for us to share what we were working on, and to help each other out with any issues. If I had more time to work on this with the group, I would have liked to clean up the file structure, and also merged all of our css files into one master stylesheet, rather than using stylesheets for each page. Additionally, I would have liked to put more content into the footer to be used across the rest of the site.
+
+Home page + Navbar/Footer
+Designed by Joey Killam
+For the navbar and footer, Bootstrap was used with some modifications to the font size of the brand name and navigation links for mobile responsiveness using media queries. The HTML and CSS for the navbar and footer was shared with each contributor to add to their page. We also imported a Google font to use across the entire site for these sections.
+
+The logo was created using the free version of Logo_Maker for iOS. Kazue converted it for use as a favicon using Favicon Converter.
+
+The first primary image after the header was intended to be a large parallax-style image, but we found that the implementation utilizing only CSS was not ideal, and had issues on mobile, so a media query was used to disable it on mobile.
+
+The carousel image viewer was implemented using a Bootstrap Carousel, and a low opacity grey background was added to the next and previous arrow indicators when a mouse hovers them to make them more obvious when the arrows cannot be seen if the colors are hidden by the image. This was disabled on mobile using a media query due to inconsistent interactions with touch screens.
+
+The buttons at the bottom linking to the rest of the site were created using some effects from CSSFX, and modified with Flexbox for responsiveness. An example is shown below.
+
+HTML
+
 # What is this Project?
 
 This group project served as a training ground for learning about Git workflows. It is intended to be incomplete and will likely not be updated. In this project we learned about Git workflows. While using a branch workflow is what we initially set out to do, we decided on merging our branches to the master a bit earlier in order for all of our teammates to keep track of the individual parts of the project. In summary, it was a success. Personally, I overcame an issue I had with CSS involving align-items. Using the browser developer tools in Google Chrome was instrumental in correcting it. Also, the site was built using Bootstrap. 
