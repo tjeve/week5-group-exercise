@@ -1,6 +1,6 @@
 # First Group Project
 
-The purpose of this project was create a simple multi-page website as a group, utilzing Github to share and manage our files. 
+The purpose of this project was to create a simple multi-page website as a group, utilzing Github to share and manage our files. This group project served as a training ground for learning about Git workflows. It is intended to be incomplete and will likely not be updated. While using a branch workflow is what we initially set out to do, we decided on merging our branches to the master a bit earlier in order for all of our teammates to keep track of the individual parts of the project. In summary, it was a success. Personally, I overcame an issue I had with CSS involving align-items. Using the browser developer tools in Google Chrome was instrumental in correcting it. Also, the site was built using Bootstrap. 
 
 ## Collaborators
 
@@ -16,10 +16,6 @@ Github proved to be a very useful tool for us to share what we were working on, 
 ## Subscribe-Page
 
 ### Designed by [Terrence Eveline](https://github.com/tjeve)
-
-# What is this Project?
-
-This group project served as a training ground for learning about Git workflows. It is intended to be incomplete and will likely not be updated. In this project we learned about Git workflows. While using a branch workflow is what we initially set out to do, we decided on merging our branches to the master a bit earlier in order for all of our teammates to keep track of the individual parts of the project. In summary, it was a success. Personally, I overcame an issue I had with CSS involving align-items. Using the browser developer tools in Google Chrome was instrumental in correcting it. Also, the site was built using Bootstrap. 
 
 # This is our project!
 
